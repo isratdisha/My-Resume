@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang=en>
+<head>
+
+<title>Resume of Israt</title>
+
+
+<body>
+<h1 align=center style='margin-left:0in;text-align:center;line-height:14.0pt'>Israt Jahan Disha</h1>
+
+
+<div style='border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 2.0pt 0in'>
+
+<p class=MsoNormal align=center style='text-align:center;line-height:14.0pt;
+text-autospace:none;border:none;padding:0in'>2500 George Washington Way, Apt # 128</p>
+
+<p class=MsoNormal align=center style='text-align:center;line-height:14.0pt;
+text-autospace:none;border:none;padding:0in'>Richland, WA-99354, USA</p>
+
+<p class=MsoNormal align=center style='text-align:center;line-height:14.0pt;
+text-autospace:none;border:none;padding:0in'>Phone&nbsp;: 509-554-7366</p>
+
+<p class=MsoNormal align=center style='text-align:center;line-height:14.0pt;
+text-autospace:none;border:none;padding:0in'>Email:<a href="mailto:disha_apece@yahoo.com">disha_apece@yahoo.com</a>
+</p>
+<p class=MsoNormal align=center style='text-align:center;line-height:14.0pt;
+text-autospace:none;border:none;padding:0in'><a href="https://www.linkedin.com/in/israt-disha-1042b8b2/" target="_blank">Linkedin Profile</a></p>
+</div>
+
+
+<section>
+<h2 style='line-height:14.0pt;background:#D9D9D9'>Objective</h2>
+<ul style='margin-top:0in' type=disc>Obtain a position where my strong engineering skills and educational background can be extended for solving problems effectively in the multidisciplinary environment.</ul>
+</section>
+
+
+
+<section>
+<h2 style='line-height:14.0pt;background:#D9D9D9'>Education</h2>
+
+<ul style='margin-top:0in' type=disc>
+<li>(2014-2016) MS in Electrical Engineering; University of South Carolina; Columbia, SC 29169, US.</li>
+<li>(2007-2011) B.S. Honors in Applied Physics, Electronics & Communication Engineering, University of Dhaka, Bangladesh. </li>
+</ul>
+</section>
+
+<section>
+<h2 style='line-height:14.0pt;background:#D9D9D9'>Area of Interest</h2>
+
+<ul style='margin-top:0in' type=disc>
+<li>Web Page Development</li>
+<li>Animation and Graphics Design</li>
+<li>Information Technology and Computer Networks</li>
+</ul>
+</section>
+
+<section>
+<h2 style='line-height:14.0pt;background:#D9D9D9'>Professional Experiences</h2>
+
+<ul style='margin-top:0in' type=disc>
+<li>Graduate Research Assistant; Department of Electrical Engineering; University of South Carolina, Columbia, SC(2014-2016).
+</li>
+<li>Graduate Assistant (Web page development); Department of Mechanical Engineering; University of South Carolina, Columbia, SC(2014-2016).. </li>
+</ul>
+</section>
+
+<section>
+<h2 style='line-height:14.0pt;background:#D9D9D9'>Awards and Scholarships</h2>
+
+<ul style='margin-top:0in' type=disc>
+<li>Graduate Research Assistantship supported by the Department of Electrical Engineering, USC.</li>
+<li>Graduate Teaching Assistantship supported by the Department of Mechanical Engineering, USC. </li>
+<li>Government of Bangladesh Education Board (1998, 2001, 2003, 2005, 2010). </li>
+</ul>
+</section>
+
+
+<section>
+<h2 style='line-height:14.0pt;background:#D9D9D9'>Skills</h2>
+
+<ul style='margin-top:0in' type=disc>
+ <li><b>Programming Language:</b><span> C/C++, Assembly language, HTML, CSS, PHP.</span></li>
+ <li><b>Operating System:</b><span> Windows 10, Windows 7, Windows XP, Windows 2008 Server, Ubuntu.</span></li>
+ <li><b>Hardware and Networking:</b><span> Computer assembling, Network card configuration, Router configuration, Wi-Fi router configuration.</span></li>
+ <li><b>Engineering Software:</b><span> Matlab/Simulink, AutoCAD.</span></li>
+  <li><b>System Administration:</b><span> Basic software installation, Anti-virus installation, Firewall setup, Troubleshooting.</span></li>
+ <li><b>Application Package:</b><span> MS Office, Image analysis tool: ImageJ, Adobe Photoshop.</span></li>
+
+
+</ul>
+
+</section>
+
+
+<section>
+<form>
+  <div class="form-group">
+    <label for="exampleInputEmail1">Email address</label>
+    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+    <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+  </div>
+  
+  <div class="form-group">
+    <label for="exampleInputPassword1">Password</label>
+    <input type="password" class="form-control" id="exampleInputPassword1">
+  </div>
+  <div class="form-group form-check">
+    <input type="checkbox" class="form-check-input" id="exampleCheck1">
+    <label class="form-check-label" for="exampleCheck1">Check me out</label>
+  </div>
+  <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+</section>
+
+
+</body>
+</html>
